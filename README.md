@@ -2,7 +2,7 @@
 Projeto desenvolvido com o que foi adquirido na disciplina de Programação Web!
 
 
-Este projeto foi desenvolvido em PHP e introdução a Banco de Dados. Objetivo de criar um painel administrativo moderno e funcional — o SmartStock. Ele tem como finalidade gerenciar de forma simples e eficiente os principais recursos de um sistema de controle de estoque, incluindo produtos, clientes e vendas, oferecendo uma interface intuitiva e totalmente integrada.
+Este projeto foi desenvolvido em PHP com introdução a Banco de Dados. Objetivo de criar um painel administrativo moderno e funcional — o SmartStock. Ele tem como finalidade gerenciar de forma simples e eficiente os principais recursos de um sistema de controle de estoque, incluindo produtos, clientes e vendas, oferecendo uma interface intuitiva e totalmente integrada.
 
 #Desenvolvedores
 
